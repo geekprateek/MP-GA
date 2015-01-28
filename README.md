@@ -1,4 +1,4 @@
-Major-Project
+MP 2
 =============
 
-A Genetic Algorithm investigation of monoalphabetic ciphers using the Z401 Zodiac cipher as an example.
+GA investigation of monoalphabetic ciphers using the Z401 Zodiac cipher as an example.
